@@ -1,0 +1,113 @@
+export const storyMeta = {
+  title: "Ashes & Ember",
+  subtitle: "A Chronicle of the Warsaw Uprising",
+  byline: "From the journals of Marta Kowalski, 1944",
+  description: "Eight weeks. Two hundred thousand souls. One city that refused to surrender.",
+};
+
+export const chapters = [
+  {
+    id: 1,
+    title: "The Hour Before Dawn",
+    date: "August 1, 1944",
+    location: "Warsaw, Occupied Poland",
+    accent: "crimson",
+    paragraphs: [
+      "The city held its breath that morning. Even the cobblestones seemed to know, their ancient gray surfaces slicked with a fine summer rain that fell without sound, as though the sky itself had gone quiet in anticipation. I remember pressing my palm flat against the cold window glass of my grandmother's apartment on Złota Street, watching the empty boulevard below. Nothing moved except a single sparrow pecking at something between the tram tracks.",
+      "My contact arrived at half past four. She was barely nineteen — younger than me — with wheat-colored braids tucked beneath a factory girl's headscarf and eyes that carried a kind of calm ferocity I had never seen on someone so young. She handed me a folded map without a word, the paper warm from being kept close to her chest. Inside, in pencil so faint it was nearly invisible: W-hour. 17:00. Begin.",
+      "I had been waiting for this moment for two years. We all had. The Home Army — Armia Krajowa — had been training in basements, in church crypts, in the back rooms of bakeries and pharmacies. Sixty thousand fighters scattered across an occupied city, armed with captured rifles, smuggled pistols, and a fury that had been building since the very first days of September 1939 when the bombs fell and the world looked away.",
+      "I folded the map into my coat lining and went to make tea for my grandmother, who was still sleeping. The water took a long time to boil. I stood over it and watched the small trembling surface of the water as heat moved beneath it, thinking: by this time tomorrow, Warsaw will either be free, or it will be burning. Perhaps both.",
+    ],
+  },
+  {
+    id: 2,
+    title: "Five O'Clock",
+    date: "August 1, 1944 — 17:00",
+    location: "Old Town District, Warsaw",
+    accent: "gold",
+    paragraphs: [
+      "The first shots came from the direction of the railway station and rolled through the summer afternoon air like distant thunder. Then they multiplied — east, west, north — until the entire city was crackling with the sound of something enormous being torn open. People on the street stopped walking mid-step, heads turning, faces frozen in that peculiar expression that exists only in the instant before everything changes.",
+      "Our unit moved through the back lanes of Stare Miasto, the Old Town, where the medieval walls still stood as they had stood for six hundred years. Our commander — a thirty-two-year-old schoolteacher who went by the name 'Wilk,' the Wolf — signaled us forward with two fingers. We wore armbands of red and white, the colors of Poland, over our civilian clothes. In German eyes, this made us partisans, criminals, subjects for execution. In our own eyes, it made us soldiers.",
+      "The first barricade went up at the corner of Podwale and Szeroki Dunaj in under eleven minutes. Wardrobes dragged from apartments, paving stones pried up with bare hands, overturned trams, sandbags — the citizens of Warsaw built walls from whatever they owned. An elderly man dragged out a grandfather clock that had survived the 1939 bombardment. He positioned it carefully at the base of the barricade with the solemnity of someone placing flowers on a grave. 'For Poland,' he said to no one in particular, and went back for more.",
+      "By nightfall we controlled twelve city blocks. The euphoria was extraordinary and terrifying in equal measure — the kind of joy that exists only when survival is uncertain. Somewhere in the darkness, beyond the barricades, the German garrison was regrouping, calling for reinforcements, summoning things that would take weeks to arrive and would be worse than anything we had yet imagined.",
+    ],
+  },
+  {
+    id: 3,
+    title: "The Architecture of Survival",
+    date: "August 5–12, 1944",
+    location: "Underground Warsaw",
+    accent: "parchment",
+    paragraphs: [
+      "We learned to live underground that first week. Not metaphorically — literally beneath the streets, through the sewer system that connected our fragmented districts like blood vessels connecting islands of a fractured body. The tunnels were narrow and absolute in their darkness, knee-deep in filth, impossible for anyone with claustrophobia, which meant that three members of my original unit had to be reassigned to surface duties regardless of what the Germans were doing up there.",
+      "A courier named Basia taught me the network. She was forty-one years old, a former librarian, and she navigated those pitch-black passages by memory and touch with the confidence of a cat. 'Third intersection, count to the seventh pipe on the left — that's Śródmieście. Don't go right, that route flooded last Tuesday.' She carried messages between commanders, medical supplies, sometimes children being evacuated from the most dangerous sectors. She never once got lost.",
+      "The Old Town was running out of ammunition by the second week. What we had was what we had — whatever the Home Army had hidden away over five years of occupation, whatever we seized from German positions in those first hours, whatever the workshops could fabricate. Grenades made from tin cans packed with nails. Incendiary bottles sealed with rags. We became very creative, in the way that people become creative when creativity is the difference between living and dying.",
+      "Food was distributed from cellars that had been converted into communal kitchens. Women who had never cooked for more than their own families fed hundreds of people a day with whatever could be found: horse meat from animals killed in the street, dried legumes from pre-war stores, soup stretched further and further with water until it was more philosophy than nutrition. We ate together and we were grateful. We had not yet learned what it would feel like to be truly hungry.",
+    ],
+  },
+  {
+    id: 4,
+    title: "Letters Never Sent",
+    date: "August 17, 1944",
+    location: "Field Hospital, Miodowa Street",
+    accent: "crimson",
+    paragraphs: [
+      "I began writing letters that I knew would never be delivered. It was something many of us did — a habit of the uncertain, a way of speaking to people who might no longer be reachable, or who might find us no longer reachable. My letters went to my mother in Kraków, to my professor at the university whose name I had used on a forged identity document, to a boy I had almost kissed at a student dance in 1941 and never saw again after the roundups began.",
+      "The field hospital occupied what had been a pharmacy on Miodowa Street. Our chief surgeon was a woman, Dr. Helena Piotrowska, forty-seven years old, who had been operating with dwindling supplies of anesthetic since the fourth day. She worked with a precision that was almost supernatural, her hands steady in conditions that would have broken other people. I assisted her for three days when our unit was pulled back from the forward positions, and I watched her save lives that had no right to be saved and hold the hands of men she could not save with a dignity that I have no adequate words for.",
+      "The wounded kept arriving. Boys mostly — though some were my age, some older, and some were genuinely, heartbreakingly young. A fifteen-year-old courier they called 'Mały,' the Little One, lost two fingers on his right hand on August 15th and was back on duty two days later because we did not have the people to spare. He learned to write his reports with his left hand. He did not complain once, or if he did, he did not do it where anyone could see.",
+      "I wrote to my mother: 'We are holding. The city is holding. I do not know what comes next but I want you to know that I am not afraid in the way I thought I would be afraid. There is a kind of clarity here that I did not expect. Tell Father I understand him now.' My father had fought in 1920, in the last war. He had never spoken of it. Now I understood why.",
+    ],
+  },
+  {
+    id: 5,
+    title: "The Silence of the Soviets",
+    date: "August 25 – September 10, 1944",
+    location: "Eastern Barricades, Praga District",
+    accent: "gold",
+    paragraphs: [
+      "On clear days, when the smoke shifted, you could see them. The Red Army — massed on the far bank of the Vistula, across the river, barely a kilometer from where we were dying by increments. Their artillery was audible at night, sometimes, a low drumroll to the east, and we told each other they were coming, they were preparing, they simply needed more time. We told each other this with the particular insistence of people who are not sure they believe what they are saying.",
+      "The drops came, when they came, from British and South African planes that flew at night from bases in Italy, an impossible distance. We would mark the drop zones with fires in the rubble and watch the containers descend and scatter in the darkness, and then spend hours searching for them while snipers watched from upper windows. We lost men retrieving those supplies. The containers that made it were cherished: ammunition, medical kits, chocolate that was passed around in fragments small enough to melt on a fingertip.",
+      "Stalin, we would learn later — much later, years after, in books written by historians who had survived and had time to understand what had happened — had deliberately halted the Soviet advance. He was allowing the uprising to be crushed. The Home Army was loyal to the Polish government-in-exile in London, not to Moscow. A free Warsaw, liberated by its own people, would have been a problem for the plans he had for postwar Poland. So he waited. So we died.",
+      "I did not have this understanding then. Then, I only knew that the river was there, that the other army was there, and that they were not coming. Wilk sat with us one evening on the barricades, looking east, and was quiet for a long time. 'We fight for Poland,' he said finally, 'not because anyone will help us. But because Poland is worth fighting for, with or without help.' No one answered him. There was nothing to answer.",
+    ],
+  },
+  {
+    id: 6,
+    title: "What Fire Teaches",
+    date: "September 20 – October 1, 1944",
+    location: "Ruins of Old Town, Warsaw",
+    accent: "crimson",
+    paragraphs: [
+      "They burned the Old Town building by building. The SS battalions — Dirlewanger's men, a unit drawn from German prisons and penal camps, men who had been given weapons and permission in exchange for a willingness to do what regular soldiers would not — moved through the streets with flamethrowers and systematic purpose. There is no other way to say it plainly: they murdered everyone they found. Patients in hospitals. Civilians who had not left. Priests. Children. The bodies were piled in the squares.",
+      "We evacuated through the sewers. Sixty-three hours underground. I will not describe it fully because there are things the body records that the mind does not wish to revisit in detail. I will say: we walked in single file, hands on the shoulders of the person in front, through absolute darkness and filth and the sounds of people in various stages of endurance, and we came out on the other side in Śródmieście, the city center, into daylight and hands that pulled us up and thin soup and the understanding that we were alive.",
+      "The Old Town was gone when we looked back. Six hundred years of buildings, of the layers of a city's memory — the merchant houses, the cathedral, the market square where Polish kings had once walked — reduced to a landscape of fire and broken stone. Basia the librarian sat down on a piece of rubble and wept without sound, tears cutting tracks through the soot on her face. She had been born in those streets. Her mother and grandmother had been born in those streets. The library where she had worked was ash.",
+      "Fire teaches you what cannot be taken. They burned everything made by human hands. They could not burn the fact that we had stood in those streets and refused to leave without a fight. They could not burn the sixty-three hours in the sewers, or Wilk's voice on the barricades, or the way Mały learned to write with his left hand, or the letters I folded and carried against my skin. Memory is the thing that does not burn.",
+    ],
+  },
+  {
+    id: 7,
+    title: "Surrender",
+    date: "October 2, 1944",
+    location: "Ożarów, Outside Warsaw",
+    accent: "parchment",
+    paragraphs: [
+      "General Bór-Komorowski signed the capitulation at ten o'clock in the morning. The terms negotiated — against all precedent for how the Germans had been treating partisans throughout occupied Europe — granted the Home Army fighters the status of prisoners of war under the Geneva Convention. This was the one thing we had. We would be soldiers, not criminals. We would go to the camps, but we would go as combatants, not as people to be shot in a ditch.",
+      "The column of fighters walking out of the city was six kilometers long. I was somewhere in the middle of it, carrying a pack with what remained of my belongings: the letters I had written to my mother, a photograph, a small book of Norwid's poetry with my name written on the inside cover. Civilians lined the streets to watch us pass. Some were weeping. Some stood in silence with their hands over their hearts. Some reached out to touch our sleeves as we walked.",
+      "A German officer stopped me near the front of the column to inspect my pack. He was young — my age, perhaps younger — and he looked at my letters and my photograph and my book of poetry and then he looked at me for a long moment. He returned everything to the pack without a word and waved me forward. I have thought of that moment many times since. I have never been able to decide what it means, or if it means anything, or if it is simply one of those strange small facts that war accumulates without grammar or conclusion.",
+      "We walked out of Warsaw in October sunshine. The sky was that particular blue that autumn makes — a blue so clear and definite it seems almost accusatory. Behind us, the city was already beginning to be systematically demolished: the Germans had orders to erase it entirely, building by building, block by block, to make of Warsaw an archaeological site rather than a living place. They were very thorough. By January, when the Soviets finally crossed the river, they found a desert of ruins stretching in every direction. They found us already gone.",
+    ],
+  },
+  {
+    id: 8,
+    title: "What Remains",
+    date: "1979 — Thirty-Five Years After",
+    location: "Warsaw, Rebuilt",
+    accent: "gold",
+    paragraphs: [
+      "The city that exists now is not the city that burned. The Poles rebuilt it stone by stone, using old paintings and photographs and architectural drawings and the memories of survivors as their blueprint — they reconstructed what had been destroyed, made it again from nothing, placed the merchant houses and the cathedral and the market square back into the world as though insisting on a fact against an erasure. Walking through the Old Town today, a tourist might not know. That is both the achievement and the wound.",
+      "Basia the librarian lived until 1972. She went back to work in libraries after the war, in the rebuilt city, cataloguing books in a place where books had been burned. She told me once that this was a form of stubbornness she could not explain rationally but could not abandon. Mały became an engineer. Wilk died in a camp in 1945, six weeks before liberation — so close, so terribly close — of pneumonia. Dr. Piotrowska emigrated to Canada and practiced medicine in Montreal for thirty years.",
+      "I teach history at a secondary school now. Every year the students sit before me — young, bored sometimes, distracted by their own urgent private worlds, as young people have always been — and I tell them what happened in those sixty-three days in the summer and autumn of 1944. I show them photographs. I read them accounts. I watch their faces change as the weight of it slowly comes through.",
+      "There is a thing that happens when young people truly understand history — not as dates and facts, but as the interior experience of other human beings who were also young, who were also afraid, who also wanted lives full of ordinary things before everything changed. Their faces open. The boredom drops away. For a moment they are in those streets, they are in those sewers, they are standing at the barricades with armbands on their sleeves and everything uncertain ahead of them. That is what I have given my life to: keeping the fire going, the kind that cannot be taken, the kind that does not burn the things that matter. Memory. Understanding. The knowledge that ordinary people, given no choice, are capable of extraordinary things.",
+    ],
+  },
+];
